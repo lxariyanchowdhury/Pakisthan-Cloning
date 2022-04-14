@@ -28,3 +28,6 @@ cd Pakisthan-Cloning
 ls
 
 python2 Pakisthan.py
+
+
+#Enjoy
